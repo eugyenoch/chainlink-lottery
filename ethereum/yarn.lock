@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@0x/assert@^3.0.7":
+/* "@0x/assert@^3.0.7":
   version "3.0.7"
   resolved "https://registry.npmjs.org/@0x/assert/-/assert-3.0.7.tgz#fb616533ed00480bd642f8419d28e88b547c30df"
   integrity sha512-HYdVvIgj/wVb20MVveazLQwICxZGelNuyu/U09ZSMzRy1NrDgrBiMjrU4WrcpW2GTPZjl+7R4U4/7h/C8I/egQ==
@@ -8454,3 +8454,4 @@ yauzl@^2.4.2:
   dependencies:
     buffer-crc32 "~0.2.3"
     fd-slicer "~1.1.0"
+*/
